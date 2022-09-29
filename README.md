@@ -3,9 +3,9 @@
 <h3 align="center">A passionate web developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://www.codingem.com/wp-content/uploads/2021/08/safar-safarov-msn8tfhj0is-unsplash-scaled.jpeg" />
 
-- 🔭 I’m currently working on **Porfolio**
+- 🔭 I’m currently working on **Vietnam**
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, Vue**
+- 🌱 I’m currently learning **ReactJs, NodeJs, Vue, Typescript**
 
 - 👯 I’m looking to collaborate on **Pizza 365**
 
