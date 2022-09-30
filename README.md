@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/purple-web-development-background_76964-167.jpg?w=2000)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.romaniajournal.ro%2Fbusiness%2Fwhich-countries-are-investing-most-in-digital-technologies%2F&psig=AOvVaw10jktNscQN4k2QdxJuqZqf&ust=1664587074064000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOjGi6Wsu_oCFQAAAAAdAAAAABAb)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Minh Duy Nguyen</h1>
 <h3 align="center">A passionate web developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://www.codingem.com/wp-content/uploads/2021/08/safar-safarov-msn8tfhj0is-unsplash-scaled.jpeg" />
