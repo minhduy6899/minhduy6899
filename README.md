@@ -1,4 +1,4 @@
-[![MasterHead](https://mlkqpm1cji7s.i.optimole.com/gJYBaBA.4TmJ~1ca7c/w:1920/h:800/q:mauto/https://fiercesw.com/wp-content/uploads/2020/11/fs-blog-110620-1920x800-1.jpg)](https://rishavchanda.io)
+[![MasterHead](https://kleanindustries.com/site/assets/files/20933/klean-loop-blockchain-internet-of-thing-waste-exchange-platform.1920x600.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Minh Duy Nguyen</h1>
 <h3 align="center">A passionate web developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://www.codingem.com/wp-content/uploads/2021/08/safar-safarov-msn8tfhj0is-unsplash-scaled.jpeg" />
