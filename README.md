@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Vietnam**
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, Vue, Typescript**
+- 🌱 I’m currently learning **.Net, NodeJs, ReactJs, Angular, Vue, Typescript**
 
 - 👯 I’m looking to collaborate on **Pizza 365**
 
